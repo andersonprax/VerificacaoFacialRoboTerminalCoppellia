@@ -1,0 +1,2 @@
+# VerificacaoFacialRoboTerminalCoppellia
+Projeto
