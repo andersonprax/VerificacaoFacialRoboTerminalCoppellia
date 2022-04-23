@@ -3,7 +3,7 @@ import os
 import imutils
 
 # Rota de armazenamento de dados
-personName = 'Anderson'
+personName = 'Insira aqui o nome da pessoa a qual será feito o reconhecimento facial'
 dataPath = "C:/Users/aps8/Documents/VerificacaoFacialRoboTerminalCoppellia/Data" # Mudar a rota onde esta armazenada a data
 personPath = dataPath + '/' + personName
 
