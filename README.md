@@ -1,8 +1,8 @@
 # VerificacaoFacialRoboTerminalCoppellia
 
-Projeto da disciplina de verificação facial da residência em Robótica e IA aplicados a testes de software da Softex/CIn-UFPE.
+Projeto da disciplina de verificação facial da residência em Robótica e IA aplicados a testes de software da Softex/CIn-UFPE contendo os códigos de reconhecimento facil e portanto a parte 1 do projeto.
 
-Para o funcionamento deste, faz-se necessário seguir os seguintes passos:
+Para o funcionamento total do projeto, faz-se necessário seguir os seguintes passos:
 
 1 - Clonar este repositório e abrir seu diretório local.
 
