@@ -1,4 +1,4 @@
-# VerificacaoFacialRoboTerminalCoppellia
+# VerificacaoFacialRoboTerminalCoppellia.
 
 Parte 1 do projeto da disciplina de Visão Computacional Aplicada a Testes da residência em Robótica e IA aplicados a testes de software da Softex/CIn-UFPE contendo os códigos de reconhecimento facil.
 
