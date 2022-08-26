@@ -1,6 +1,6 @@
 # VerificacaoFacialRoboTerminalCoppellia.
 
-Parte 1 do projeto da disciplina de Visão Computacional Aplicada a Testes da residência em Robótica e Inteligência Artificial aplicadas a testes de software da Softex/CIn-UFPE contendo os códigos de reconhecimento facil.
+Parte 1 do projeto da disciplina de Visão Computacional Aplicada a Testes da residência em Robótica e Inteligência Artificial aplicadas a testes de software da Softex/CIn-UFPE. Neste projeto é usado um código de reconhecimento facial feito em python com o auxílio da biblioteca de visão computacional open source chamada OpenCV para reconhecer os rostos e treinar o software a indentificar os mesmos através de aprendizagem de máquina (machine learning). É utilizado também um simulador de braços robóticos com terminal de mesário e urna eletrônica (todos virtuais) que se encontra neste perfil do GitHub no repositório VerificacaoFacialRoboTerminalCoppellia. Ao seguir os passos abaixo pode-se usar o código de reconhecimento facial, outro código para treinar o software a reconhecer os rostos e por fim um último código para associá-los aos seus respectivos títulos de eleitores e se conectar ao simulador CoppelliaSim para então o braço robótico digitar esses títulos no terminal e urna virtuais.
 
 Para o funcionamento total do projeto, faz-se necessário seguir os seguintes passos:
 
